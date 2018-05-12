@@ -1,0 +1,28 @@
+_repo: S--ski---1.-parviRunollisia-kokeita_37037
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Rahkonen, Aleksanteri
+    alias: Rahkonen, A.
+    birthdate: 1841
+    deathdate: 1877
+    gutenberg_agent_id: '32950'
+    url: http://www.gutenberg.org/2009/agents/32950
+    wikipedia: http://fi.wikipedia.org/wiki/Aleksanteri_Rahkonen
+description: ''
+gutenberg_issued: '2011-08-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37037'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PH'
+- !lcsh 'Poetry'
+title: 'Sääskiä: 1. parvi. Runollisia kokeita'
+url: http://www.gutenberg.org/ebooks/37037
